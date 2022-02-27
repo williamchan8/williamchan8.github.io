@@ -1,9 +1,9 @@
 ---
 layout: page
-title: submenus
+title: Example Submenu
 nav: true
 dropdown: true
-children: 
+children:
     - title: publications
       permalink: /publications/
     - title: divider
