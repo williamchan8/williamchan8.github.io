@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Example Submenu
 nav: true
@@ -9,4 +9,4 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
----
+--- -->

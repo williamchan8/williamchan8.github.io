@@ -2,24 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://github.com/SpencerPao'>Code</a> <a href='https://www.youtube.com/c/SpencerPaoHere'>Chill</a> <b> Imagine </b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Located in Virginia, USA</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This is some random text. Do some extra text.
+Hello! My name is Spencer, and I absolutely love to combine data science capabilities with any type of industry. I love to create mini projects that explains or demonstrates how to use said application in your everyday life.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working at Booz Allen Hamilton as a Machine Learning Engineer with a focus on <b>Natural Language Processing </b> and <b>model deployment.</b>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I also do pro-bono strategic consulting work with [Compass.](https://compassprobono.org/) I am currently assisting on a growth strategic proposal to a nonprofit firm.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Perhaps you found this website through my [YouTube Channel](https://www.youtube.com/c/SpencerPaoHere/)? If not, check it out! I have quite the video portfolio from finance to technological applications and theory accumulating there.
+
+I am always looking for folks who are interested in aiding on ongoing or newly created projects.
+* Contact me at <b>business.inquiry.spao@gmail.com</b> if interested!
+* Some of the Ongoing works:
+  - Architecting cost effective and efficient code solutions
+  - Evaluating Crypto (finance + code)
+  - Creating Artwork with GANS (code)
+  - Automating the evaluation of public companies (finance + code)
+    - Explore and implement traditional theories of finance
+    - Explore and implement quantitative strategies of finance
+
+If you have an idea and want to see if I'd be interested in helping out, please contact me!
