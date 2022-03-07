@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Not So long Announcement.
+title: A Not So Long Announcement.
 date: 2022-03-01 16:11:00-0400
 inline: false
 ---
