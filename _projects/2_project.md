@@ -34,3 +34,17 @@ More is to come. There are many applications that can be done. How exciting!
 <div class="caption">
     Optical Character Recognition, Deep Q Networks & Reinforcement Learning, GANS
 </div>
+---
+
+
+Can I call myself the next Pablo Picasso? Well, maybe my computer can come close to Picasso's greatness.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href = "https://youtu.be/pvihWoaoWIM">
+        {% include figure.html path="assets/img/A_Computer_Creates_Abstract_Art.png" title="A Computer Creates Abstract ARt" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+</div>
+<div class="caption">
+    I created art and I can't even draw a straight line!
+</div>
