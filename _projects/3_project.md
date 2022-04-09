@@ -58,7 +58,7 @@ Furthermore, I have a video series on how to hypothetically make $1,000,000 with
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       <a href = "https://youtu.be/PXUnovVYzRo">
-        {% include figure.html path="assets/img/Road1.png" title="Hypothetical Road to Millionaire Status" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Road2.png" title="Hypothetical Road to Millionaire Status" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
 </div>
