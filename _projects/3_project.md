@@ -57,7 +57,7 @@ Of course I love to apply tech & finance! This is a huge field, and I love to ex
 Furthermore, I have a video series on how to hypothetically make $1,000,000 with paper trading. <b> I do not have a portfolio where this series is modeled after.</b> This video series can be found [here](https://www.youtube.com/watch?v=PXUnovVYzRo&list=PLHT3ZrWZ1pcS-Ct3DHotXuB9oM7R4ui1x)
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      <a href = "https://youtu.be/PXUnovVYzRo">
+      <a href = "https://www.youtube.com/watch?v=PXUnovVYzRo&list=PLHT3ZrWZ1pcS-Ct3DHotXuB9oM7R4ui1x">
         {% include figure.html path="assets/img/Road2.png" title="Hypothetical Road to Millionaire Status" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
