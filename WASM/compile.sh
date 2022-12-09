@@ -1,0 +1,1 @@
+emcc -g ./runner.cpp ./numbergame.cpp ./queue.cpp -o output

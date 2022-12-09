@@ -1,0 +1,6 @@
+interface Runner {
+    void Runner();
+    void addPlayers();
+    void start();
+};
+

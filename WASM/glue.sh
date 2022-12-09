@@ -1,0 +1,2 @@
+cd /Users/williamchan/Documents/AdvancedProgramming/emsdk/upstream/emscripten
+python tools/webidl_binder.py /Users/williamchan/Documents/AdvancedProgramming/lab-3-multithreading-williamchan8-main/Code/ThreadSynchronization/classes.idl /Users/williamchan/Documents/AdvancedProgramming/lab-3-multithreading-williamchan8-main/Code/ThreadSynchronization/glue
